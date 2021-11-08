@@ -1,3 +1,9 @@
+# New Suff
+Sends a F14 every 4 minutes to keep MS Teams from going idle.
+
+In the bluetooth connection state now shows a blue heart.
+
+# Original Instructions
 # Physical-Mute-Button
 This is an Arduino sketch for a physical mute button suitable for Zoom and Microsoft Teams. 
 
